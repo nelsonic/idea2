@@ -7,3 +7,10 @@ something *we* can & should tackle *first*.
 If you have not watched his PyCon Keynote,
 I recommend you add it to your list:
 https://www.youtube.com/watch?v=R9ITLdmfdLI
+
+> Looks like I might have a good "*excuse*"
+dedicate some time to working on this...
+
+## Questions & (*Attempted*) Answers
+
+What is *wrong* with email...?
